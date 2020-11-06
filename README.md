@@ -1,2 +1,6 @@
 # qr-test
-pythom生成动态图二维码
+python生成动态图二维n码
+
+pip MyQR
+
+
